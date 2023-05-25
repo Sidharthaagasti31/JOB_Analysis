@@ -31,3 +31,18 @@ The project is organized into the following components:
 **Exploratory Data Analysis:** Contains Jupyter notebooks or Python scripts that perform exploratory data analysis on the processed job data. It includes statistical analysis, data visualization, and feature engineering.
 
 **Power BI Dashboard:** Provides the Power BI files that contain the interactive dashboard for visualizing the analyzed job data.
+
+## Key Findings
+![MY DASHBOARD](https://github.com/Sidharthaagasti31/JOB_Analysis/assets/50338854/ffc3265d-872d-4fea-90a8-3d2a1da5416e)
+
+**Most In-Demand Skills:** Through the analysis of job descriptions, it was found that the most in-demand skills in IT sector are Java,Python,.NET,Angular programming And for NON IT sector its communication skills, and project management and sales . These skills consistently appeared as requirements in a significant number of job postings.
+
+**Most In-Demand Jobs:** Through the analysis  it was found that the most in-demand jobs are Software engineer , Sales and business and Data Anlysis.
+
+**Preferred Experience:** The analysis revealed that employers prioritize candidates are those having 2-5 year as preferred experiences.
+
+**Trends in Job Titles:** The analysis revealed emerging job titles and roles that have gained prominence in recent years. Examples include Backend and fullend webdeveloper product managers etc. This indicates the evolving job market and the need for professionals with specialized skills in emerging fields.
+
+**Trends Job Vacancy:** On analysing the data we got to know that most number of job vacancy are for data related jobs like data scientis and data analysi despite most demanding roles are siftware engineer and web developer.
+
+**Geographical Patterns:** The analysis of job postings across different regions highlighted geographic variations in job requirements and skill preferences. For instance, IT and technology-related positions were more prevalent in Bangaluru and Hydrabad areas, while manufacturing roles were prominent in specific regions lilke Mumbai and Delhi.
