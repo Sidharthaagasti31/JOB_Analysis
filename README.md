@@ -6,6 +6,10 @@
 ## OBJECTIVE
 This job analysis project aims to analyze and evaluate various job roles within an organization to gain insights into their responsibilities, skills, and qualifications. job analysis provides you with valuable insights that can inform your job search strategy, improve your application materials, and guide your career decisions. By utilizing job analysis information, you can present yourself as a strong candidate, align your career aspirations with suitable roles, and identify areas for professional development.
 
+## TOOLS USED
+
+<img src="https://github.com/Sidharthaagasti31/Sidharthaagasti31/assets/50338854/dc8316b6-70d3-416d-9910-cbf8fec92834" alt="excel" height=70 width=70 ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="70"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="70" height="70"/> </a>  <img src="https://github.com/Sidharthaagasti31/Sidharthaagasti31/assets/50338854/fab946d7-1e30-4707-9a9e-8f7248dd5123" alt="power bi" width="40" height="70"/> 
+
 ## Key Features:
 
 **Web Scraping:** The project includes a web scraping script that extracts job descriptions from [instahyre](https://www.instahyre.com/search-jobs/) job portals and websites. It collects relevant data such as job titles, responsibilities, skills, experience and other job-related information.
