@@ -46,3 +46,13 @@ The project is organized into the following components:
 **Trends Job Vacancy:** On analysing the data we got to know that most number of job vacancy are for data related jobs like data scientis and data analysi despite most demanding roles are siftware engineer and web developer.
 
 **Geographical Patterns:** The analysis of job postings across different regions highlighted geographic variations in job requirements and skill preferences. For instance, IT and technology-related positions were more prevalent in Bangaluru and Hydrabad areas, while manufacturing roles were prominent in specific regions lilke Mumbai and Delhi.
+
+
+
+### machine learning model:
+After analysing data , created machine learning models used for predictions of number of job vacancies , size of company , designation of job and industry type from user input skills which then trained using various models which includes kmeans , and various classification models and saved before deploying the Streamlit web application. The model should take user-input skills and provide predictions for the number of jobs available, company size, industry type, and job designation. Model with best desired metrics was selected and integrated to webapp
+
+### created webapp:
+After creating models and importing the models using pickle , created a webapp using Streamlit . Below is the snap of webapp.
+![Web capture_28-8-2023_201925_localhost](https://github.com/Sidharthaagasti31/JOB_Analysis/assets/50338854/99cee3a6-8426-4527-a536-3c5b53d9c737)
+
